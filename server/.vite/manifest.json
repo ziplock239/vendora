@@ -1,0 +1,406 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "/home/ubuntu/project/ven-dora-main/src/styles.css": {
+    "file": "assets/styles-EaTpliuD.css",
+    "src": "/home/ubuntu/project/ven-dora-main/src/styles.css"
+  },
+  "_arrow-right-BTBsez5a.js": {
+    "file": "assets/arrow-right-BTBsez5a.js",
+    "name": "arrow-right",
+    "imports": [
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_auth-middleware-qVY3JGnT.js": {
+    "file": "assets/auth-middleware-qVY3JGnT.js",
+    "name": "auth-middleware",
+    "imports": [
+      "_client.server-C-Z9IluY.js",
+      "_worker-entry-BYvOMqif.js"
+    ]
+  },
+  "_circle-x-D6erv5qL.js": {
+    "file": "assets/circle-x-D6erv5qL.js",
+    "name": "circle-x",
+    "imports": [
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_client.server-C-Z9IluY.js": {
+    "file": "assets/client.server-C-Z9IluY.js",
+    "name": "client.server"
+  },
+  "_format-DGko91Dw.js": {
+    "file": "assets/format-DGko91Dw.js",
+    "name": "format"
+  },
+  "_label-DDdJyDtI.js": {
+    "file": "assets/label-DDdJyDtI.js",
+    "name": "label",
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_main-layout-7G5etEiH.js": {
+    "file": "assets/main-layout-7G5etEiH.js",
+    "name": "main-layout",
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "_package-uG-r13Pq.js": {
+    "file": "assets/package-uG-r13Pq.js",
+    "name": "package",
+    "imports": [
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_paystack.functions-CH_r8KcC.js": {
+    "file": "assets/paystack.functions-CH_r8KcC.js",
+    "name": "paystack.functions",
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_auth-middleware-qVY3JGnT.js"
+    ]
+  },
+  "_product-card-Hq_ANSOs.js": {
+    "file": "assets/product-card-Hq_ANSOs.js",
+    "name": "product-card",
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_format-DGko91Dw.js",
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_router-DsUVh2gx.js": {
+    "file": "assets/router-DsUVh2gx.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_client.server-C-Z9IluY.js"
+    ],
+    "dynamicImports": [
+      "src/routes/signup.tsx?tsr-split=component",
+      "src/routes/products.tsx?tsr-split=component",
+      "src/routes/orders.tsx?tsr-split=component",
+      "src/routes/login.tsx?tsr-split=component",
+      "src/routes/dashboard.tsx?tsr-split=component",
+      "src/routes/checkout.tsx?tsr-split=component",
+      "src/routes/cart.tsx?tsr-split=component",
+      "src/routes/become-seller.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component",
+      "src/routes/products.$productId.tsx?tsr-split=component",
+      "src/routes/checkout.callback.tsx?tsr-split=component",
+      "src/routes/admin.users.tsx?tsr-split=component",
+      "src/routes/admin.kyc.tsx?tsr-split=component",
+      "src/routes/dashboard.products.new.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/hero-marketplace-CVKx_xeV.jpg",
+      "assets/styles-EaTpliuD.css"
+    ]
+  },
+  "_textarea-DcDREXsv.js": {
+    "file": "assets/textarea-DcDREXsv.js",
+    "name": "textarea",
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_trash-2-DiiaJGVf.js": {
+    "file": "assets/trash-2-DiiaJGVf.js",
+    "name": "trash-2",
+    "imports": [
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_upload-C99Ciid9.js": {
+    "file": "assets/upload-C99Ciid9.js",
+    "name": "upload",
+    "imports": [
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "_useMutation-DOlS1iZl.js": {
+    "file": "assets/useMutation-DOlS1iZl.js",
+    "name": "useMutation",
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js"
+    ]
+  },
+  "_worker-entry-BYvOMqif.js": {
+    "file": "assets/worker-entry-BYvOMqif.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "src/server/paystack.functions.ts?tss-serverfn-split",
+      "src/server/paystack.functions.ts?tss-serverfn-split",
+      "_router-DsUVh2gx.js",
+      "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "_x-kyj01Kcd.js": {
+    "file": "assets/x-kyj01Kcd.js",
+    "name": "x",
+    "imports": [
+      "_main-layout-7G5etEiH.js"
+    ]
+  },
+  "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts": {
+    "file": "assets/start-HYkvq4Ni.js",
+    "name": "start",
+    "src": "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+    "isDynamicEntry": true
+  },
+  "src/assets/hero-marketplace.jpg": {
+    "file": "assets/hero-marketplace-CVKx_xeV.jpg",
+    "src": "src/assets/hero-marketplace.jpg"
+  },
+  "src/routes/admin.kyc.tsx?tsr-split=component": {
+    "file": "assets/admin.kyc-5V6IG63Y.js",
+    "name": "admin.kyc",
+    "src": "src/routes/admin.kyc.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_useMutation-DOlS1iZl.js",
+      "_x-kyj01Kcd.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/admin.users.tsx?tsr-split=component": {
+    "file": "assets/admin.users-FUmQvAyi.js",
+    "name": "admin.users",
+    "src": "src/routes/admin.users.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_useMutation-DOlS1iZl.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/become-seller.tsx?tsr-split=component": {
+    "file": "assets/become-seller-mmN_t2sY.js",
+    "name": "become-seller",
+    "src": "src/routes/become-seller.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_label-DDdJyDtI.js",
+      "_textarea-DcDREXsv.js",
+      "_circle-x-D6erv5qL.js",
+      "_upload-C99Ciid9.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/cart.tsx?tsr-split=component": {
+    "file": "assets/cart-clQPc-iQ.js",
+    "name": "cart",
+    "src": "src/routes/cart.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_useMutation-DOlS1iZl.js",
+      "_format-DGko91Dw.js",
+      "_trash-2-DiiaJGVf.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/checkout.callback.tsx?tsr-split=component": {
+    "file": "assets/checkout.callback-CTi347wH.js",
+    "name": "checkout.callback",
+    "src": "src/routes/checkout.callback.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_paystack.functions-CH_r8KcC.js",
+      "_main-layout-7G5etEiH.js",
+      "_circle-x-D6erv5qL.js",
+      "_client.server-C-Z9IluY.js",
+      "_auth-middleware-qVY3JGnT.js"
+    ]
+  },
+  "src/routes/checkout.tsx?tsr-split=component": {
+    "file": "assets/checkout-Lp6Axslr.js",
+    "name": "checkout",
+    "src": "src/routes/checkout.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_paystack.functions-CH_r8KcC.js",
+      "_label-DDdJyDtI.js",
+      "_textarea-DcDREXsv.js",
+      "_format-DGko91Dw.js",
+      "_client.server-C-Z9IluY.js",
+      "_auth-middleware-qVY3JGnT.js"
+    ]
+  },
+  "src/routes/dashboard.products.new.tsx?tsr-split=component": {
+    "file": "assets/dashboard.products.new-DMZt5lEi.js",
+    "name": "dashboard.products.new",
+    "src": "src/routes/dashboard.products.new.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_label-DDdJyDtI.js",
+      "_textarea-DcDREXsv.js",
+      "_format-DGko91Dw.js",
+      "_upload-C99Ciid9.js",
+      "_x-kyj01Kcd.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/dashboard.tsx?tsr-split=component": {
+    "file": "assets/dashboard-D6yP4KLL.js",
+    "name": "dashboard",
+    "src": "src/routes/dashboard.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_useMutation-DOlS1iZl.js",
+      "_format-DGko91Dw.js",
+      "_trash-2-DiiaJGVf.js",
+      "_package-uG-r13Pq.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-DjKOIS7W.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_product-card-Hq_ANSOs.js",
+      "_arrow-right-BTBsez5a.js",
+      "_client.server-C-Z9IluY.js",
+      "_format-DGko91Dw.js"
+    ]
+  },
+  "src/routes/login.tsx?tsr-split=component": {
+    "file": "assets/login-BbEn_uRU.js",
+    "name": "login",
+    "src": "src/routes/login.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_label-DDdJyDtI.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/orders.tsx?tsr-split=component": {
+    "file": "assets/orders-BV87PdG8.js",
+    "name": "orders",
+    "src": "src/routes/orders.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_format-DGko91Dw.js",
+      "_package-uG-r13Pq.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/products.$productId.tsx?tsr-split=component": {
+    "file": "assets/products._productId-ByH-510I.js",
+    "name": "products._productId",
+    "src": "src/routes/products.$productId.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_useMutation-DOlS1iZl.js",
+      "_arrow-right-BTBsez5a.js",
+      "_format-DGko91Dw.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/routes/products.tsx?tsr-split=component": {
+    "file": "assets/products-BP5LEIW-.js",
+    "name": "products",
+    "src": "src/routes/products.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_product-card-Hq_ANSOs.js",
+      "_client.server-C-Z9IluY.js",
+      "_format-DGko91Dw.js"
+    ]
+  },
+  "src/routes/signup.tsx?tsr-split=component": {
+    "file": "assets/signup-DT6K_HYN.js",
+    "name": "signup",
+    "src": "src/routes/signup.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_router-DsUVh2gx.js",
+      "_main-layout-7G5etEiH.js",
+      "_label-DDdJyDtI.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "src/server/paystack.functions.ts?tss-serverfn-split": {
+    "file": "assets/paystack.functions-B_eayZSi.js",
+    "name": "paystack.functions",
+    "src": "src/server/paystack.functions.ts?tss-serverfn-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js",
+      "_auth-middleware-qVY3JGnT.js",
+      "_client.server-C-Z9IluY.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-BQyikXjM.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-BYvOMqif.js"
+    ]
+  }
+}
