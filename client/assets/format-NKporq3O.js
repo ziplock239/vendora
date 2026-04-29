@@ -1,0 +1,1 @@
+function t(r){const n=Number(r??0)/100;return new Intl.NumberFormat("en-NG",{style:"currency",currency:"NGN",minimumFractionDigits:0,maximumFractionDigits:2}).format(n)}function a(r){return Math.round(r*100)}export{t as f,a as n};
